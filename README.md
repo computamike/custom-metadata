@@ -303,7 +303,7 @@ $args = array(
 
 # Examples
 
-For examples, please see the [custom_metadata_examples.php](https://github.com/jkudish/custom-metadata/blob/master/custom_metadata_examples.php) file included with the plugin. Add a constant to your wp-config.php called `CUSTOM_METADATA_MANAGER_DEBUG` with a value of `true` to see it in action:
+For examples, please see the [custom_metadata_examples.php](custom_metadata_examples.php) file included with the plugin. Add a constant to your wp-config.php called `CUSTOM_METADATA_MANAGER_DEBUG` with a value of `true` to see it in action:
 
 `define( 'CUSTOM_METADATA_MANAGER_DEBUG', true );`
 
